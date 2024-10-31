@@ -1,5 +1,5 @@
 # web3wallet
-    web3wallet 提供数字资产管理，智能合约调用。
+    web3wallet 提供数字资产管理，智能合约调用功能， 个人数据空间功能。
 
     支持在 mac 和 windows 系统运行
 
